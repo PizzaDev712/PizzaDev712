@@ -2,7 +2,7 @@
 - 👀 I’m interested in stuff.
 - 🌱 I’m currently learning stuff.
 - 💞️ I’m looking to collaborate on stuff.
-- 📫 How to reach me ... stuff@gmail.com
+- 📫 How to reach me ... ThisIsNotARealEmailThatIHave@gmail.com
 
 <!---
 PizzaDev712/PizzaDev712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
